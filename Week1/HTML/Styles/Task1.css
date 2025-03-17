@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+a:hover {
+    color: red;
+}
+
+a {
+    color:blueviolet;
+    text-decoration: none;
+}
+img {
+    border-radius: 30px;
+    
+}
+.secondRow {
+    background-color: aqua;
+}
+.fourthRow {
+    background-color: blueviolet;
+}
+ul {
+    list-style: none;
+}

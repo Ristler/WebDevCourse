@@ -13,6 +13,8 @@ function movieApp() {
 
     if(rating > 5) {
         rating = 5;
+    } else if(rating < 1) {
+        rating = 1;
     }
 
     let movie = {
